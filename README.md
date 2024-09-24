@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://myspace.windows93.net/u/66933/avatar.jpg" alt="Ohmygod" width="50"/>
+<img src="https://myspace.windows93.net/u/66933/avatar.jpg" alt="Ohmygod" width="100"/>
 </p>
 
 # About me
