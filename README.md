@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://64.media.tumblr.com/428d93344396eb8c9a08f8f918bcf5bf/e5b0fea253b373c2-96/s500x750/15338c57242f3fb0ed69abb8bc1a0ca8fd6d4d6b.png" alt="Ohmygod" width="200"/>
+<img src="https://64.media.tumblr.com/7f14051fbad60afd6f1e132b303f7923/502b7b91588a711e-2d/s1280x1920/41b264db952b76a0122315e0ec5c052359320016.png" alt="Ohmygod" width="300"/>
 </p>
 
 # About me
