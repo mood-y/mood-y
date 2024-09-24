@@ -1,4 +1,4 @@
-## Security enthuasist, I browse things like digital forensics, system hardening and attacks.
+## About me
 
 <!--
 **umdy/umdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
