@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<b><font size="300">About me</font></b>
+<b>About me</font></b>
 </p>
 
 
