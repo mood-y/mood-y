@@ -11,7 +11,7 @@
 <p align="center">I'm a cybersecurity student who is enthusiastic in defensive security. I'm also interested in digital forensics, hardening and compliance.
 All you'll see here is just documentation of my forensics assignments and other endeavours concerning cybersecurity.</p>
 
-<p align="center">## Certificates</p>
+## Certificates
 <p align="center">
   <a href="https://training.fortinet.com/local/staticpage/view.php?page=library_getting-started-in-cybersecurity" target="_blank"><img src="https://training.fortinet.com/pluginfile.php/2226724/block_html/content/NSE-exam-getting-started-cybersecurity-v2.0.png" width="100" height="100"></a>&nbsp;
 </p>
