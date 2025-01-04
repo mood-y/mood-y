@@ -8,8 +8,7 @@
 </p>
 
 
-<p align="center">I'm a cybersecurity student who is enthusiastic in defensive security. I'm also interested in digital forensics, hardening and compliance.
-All you'll see here is just documentation of my forensics assignments and other endeavours concerning cybersecurity.</p>
+<p align="center">I'm a cybersecurity student interested in digital forensics, defensive security, and pretty much, all things cybersecurity. I'll usually make articles here of my cybersecurity journey.</p>
 
 ## Certificates
 <p align="center">
