@@ -6,7 +6,7 @@
 <p align="center">I'm a cybersecurity student interested in digital forensics, defensive security, and pretty much, all things cybersecurity. I'll usually make articles here of my cybersecurity journey.</p>
 
 
-## Certificates
+## Certificates/Badges
 
 
 <p align="center">
