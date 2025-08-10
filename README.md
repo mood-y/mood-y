@@ -4,7 +4,9 @@
 
 
 <p align="center">I'm a cybersecurity student interested in the defensive bit of cybersecurity which may include hardening, encryption, and malware analysis.</p>
-<p align="center><img src="https://tryhackme-badges.s3.amazonaws.com/mooody.png" alt="Your Image Badge" /></p>
+<p align="center> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/mooody.png"alt="Your Image Badge"/>
+</p>
 
 
 ## Certificates/Badges
